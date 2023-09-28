@@ -1,0 +1,25 @@
+.Column {
+  width: 270px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.columnHeader {
+  display: flex;
+  gap: 8px;
+}
+
+.columnBody {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.enableDrop {
+  background-color: skyblue;
+}
+
+.draggingOver {
+  background-color: green;
+}

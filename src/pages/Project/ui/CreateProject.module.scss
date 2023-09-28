@@ -1,0 +1,12 @@
+.CreateProject {
+  min-width: 700px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.footer {
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+}

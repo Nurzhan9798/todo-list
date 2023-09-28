@@ -1,0 +1,16 @@
+.ProjectPage {
+  width: 80%;
+  margin: 32px auto 0;
+}
+
+.taskContainer {
+  display: flex;
+  gap: 30px;
+  align-items: flex-start;
+}
+.taskList {
+  transition: background-color 0.2s ease;
+  flex-grow: 1;
+  min-height: 100px;
+}
+

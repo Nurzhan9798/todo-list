@@ -1,0 +1,14 @@
+.ProjectsList {
+
+}
+
+.projectCard {
+  width: 300px;
+}
+
+.projectContainer {
+  display: flex;
+  gap: 16px;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
